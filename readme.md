@@ -149,6 +149,4 @@ The time in milliseconds to wait before timing out when searching for each match
 }
 ```
 
-## Related
 
-- [function-timeout](https://github.com/sindresorhus/function-timeout) - Make a synchronous function have a timeout
